@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/context_menu_delete_btn"
+        android:title="delete"/>
+
+    <item
+        android:id="@+id/context_menu_rename_btn"
+        android:title="rename"/>
+
+    <item
+        android:id="@+id/context_menu_share_btn"
+        android:title="share"/>
+
+</menu>
